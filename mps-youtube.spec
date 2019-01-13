@@ -3,12 +3,12 @@
 %define		egg_name	mps_youtube
 Summary:	Terminal-based YouTube player and downloader
 Name:		mps-youtube
-Version:	0.2.7.1
-Release:	2
+Version:	0.2.8
+Release:	1
 License:	GPL v3
 Group:		Applications/Multimedia
 Source0:	https://files.pythonhosted.org/packages/source/m/%{pypi_name}/%{pypi_name}-%{version}.tar.gz
-# Source0-md5:	6b834b25fab8f87378976f1a798044e0
+# Source0-md5:	7560fda429491a41b1a4a20ad9cd3a3b
 URL:		https://github.com/mps-youtube/mps-youtube
 BuildRequires:	python3-modules
 BuildRequires:	python3-setuptools
