@@ -4,7 +4,7 @@
 Summary:	Terminal-based YouTube player and downloader
 Name:		mps-youtube
 Version:	0.2.8
-Release:	4
+Release:	5
 License:	GPL v3
 Group:		Applications/Multimedia
 Source0:	https://files.pythonhosted.org/packages/source/m/%{pypi_name}/%{pypi_name}-%{version}.tar.gz
